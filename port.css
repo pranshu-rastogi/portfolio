@@ -447,7 +447,7 @@ a {
 }
 
 .skills-content .right .bootstraps::before {
-    width: 60%;
+    width: 30%;
 }
 
 .skills-content .right .django::before {
