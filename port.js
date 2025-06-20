@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function () {Add commentMore actions
     $(window).scroll(function () {
         //  sticky navbar on scroll script  //
         if (this.scrollY > 20) {
@@ -40,9 +40,8 @@ $(document).ready(function () {
 
     var typed = new Typed(".typing", {
         strings: [
-            "Final year CSE Student",
+            "Final Year CSE Student",
             "Coder",
-            "Cyber Security Enthusiast",
             "ML Enthusiast",
             "Learner",
             "Leader"
@@ -54,9 +53,8 @@ $(document).ready(function () {
 
     var typed = new Typed(".typing-2", {
         strings: [
-            "Final year CSE Student",
+            "Final Year CSE Student",
             "Coder",
-            "Cyber Security Enthusiast",
             "ML Enthusiast",
             "Learner",
             "Leader"
