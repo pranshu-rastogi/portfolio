@@ -40,7 +40,7 @@ $(document).ready(function () {Add commentMore actions
 
     var typed = new Typed(".typing", {
         strings: [
-            "Final Year CSE Student",
+            "Sophomere CSE Student",
             "Coder",
             "ML Enthusiast",
             "Learner",
@@ -53,7 +53,7 @@ $(document).ready(function () {Add commentMore actions
 
     var typed = new Typed(".typing-2", {
         strings: [
-            "Final Year CSE Student",
+            "Sophomere CSE Student",
             "Coder",
             "ML Enthusiast",
             "Learner",
