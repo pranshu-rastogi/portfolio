@@ -38,7 +38,7 @@ $(document).ready(function () {
 
     //  Typing Text Animation  //
 
-    var typed = new Typed(".typing", {
+    var typed1 = new Typed(".typing", {
         strings: [
             "Sophomere CSE Student",
             "Coder",
@@ -51,9 +51,9 @@ $(document).ready(function () {
         loop: true
     });
 
-    var typed = new Typed(".typing-2", {
+    var typed2 = new Typed(".typing-2", {
         strings: [
-            "Sophomere CSE Student",
+            "Final Year CSE Student",
             "Coder",
             "ML Enthusiast",
             "Learner",
