@@ -53,8 +53,9 @@ $(document).ready(function () {
 
     var typed = new Typed(".typing-2", {
         strings: [
-            "Sophomere CSE Student",
+            "Final year CSE Student",
             "Coder",
+            "Cyber Security Enthusiast"
             "ML Enthusiast",
             "Learner",
             "Leader"
