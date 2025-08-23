@@ -40,7 +40,7 @@ $(document).ready(function () {
 
     var typed1 = new Typed(".typing", {
         strings: [
-            "Sophomere CSE Student",
+            "Final Year CSE Student",
             "Coder",
             "ML Enthusiast",
             "Learner",
@@ -88,3 +88,4 @@ $(document).ready(function () {
         }
     });
 });
+
